@@ -1,0 +1,50 @@
+body {
+    background-color: black;
+    margin: 0;
+}
+
+p {
+    color: green;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 50px;
+    font-family: 'Consolas';
+    margin: 0;
+    height: 70px;
+    width: 200px;
+}
+
+#testo{
+    color: green;
+    font-family: 'Consolas';
+    font-size: 20px;
+    left: 20px;
+    top: 110px;
+    position: absolute;
+    height: 30px;
+    width: 1100px;
+}
+
+#testo1 {
+    color: green;
+    font-family: 'Consolas';
+    font-size: 20px;
+    left: 20px;
+    top: 200px;
+    position: absolute;
+    height: 30px;
+    width: 1100px;
+}
+
+#testo_footer {
+    border-top: 2px solid green;
+    color: green;
+    font-family: 'Comic Sans MS';
+    font-size: 25px;
+    top: 400px;
+    left: 20px;
+    position: absolute;
+    height: 30px;
+    width: 1100px;
+}
